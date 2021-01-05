@@ -1,0 +1,16 @@
+.jumbotron {
+    background: #000000;
+}
+
+.team-heading {
+    color: #ffffff;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.employee-card {
+    margin-left: 6px;
+    margin-right: 6px;
+}
