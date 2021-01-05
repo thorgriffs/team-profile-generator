@@ -94,7 +94,7 @@ var nonManagerQuestions = [roleQuestion, ...commonQuestions, githubQuestion, sch
 
 function askForManagerInfo(onDone) {
 	
-	console.log("Hello. Let's gather the Manager's information.\n");
+	console.log("Hello. Please answer the following questions to build the team profile.  Let's start the Manager's information.\n");
 	var employees = [];
 
 	inquirer.prompt(managerQuestions).then((answers) => {
