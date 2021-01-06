@@ -4,6 +4,10 @@
 ## Description
 This is a coding bootcamp homework assignment to create a Node CLI that takes in information about employees from user's input using the the [Inquirer package](https://www.npmjs.com/package/inquirer) and generates an HTML webpage that displays summaries for each employee. This homework also incorporates unit tests run with [jest](https://jestjs.io/). 
 
+![CLI](./assets/cli.png)
+
+![Rendered HTML](./assets/rendered-html.png)
+
 
 ## Table of Contents
 * [Installation](#Installation)
