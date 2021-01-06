@@ -17,7 +17,7 @@ This is a coding bootcamp homework assignment to create a Node CLI that takes in
 * [License](#License)
 * [Links](#Links)
 ## Installation
-Install the following depenncies: 
+Install the following dependencies: 
 ```bash
 npm install
 npm install inquirer
