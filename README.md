@@ -24,7 +24,7 @@ npm install inquirer
 npm install email-validator
 ```
 ## Usage
-Execute the README file generator with 
+Execute the Team Profile Generator with 
 ```bash
 node app.js
 ```
